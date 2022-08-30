@@ -538,7 +538,7 @@ header .fa-bars{
     
 }
 
-@media (max-width:450px){
+@media (min-width:480px){
     
     html{
         font-size: 50%;
