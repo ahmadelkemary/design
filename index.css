@@ -549,6 +549,8 @@ header .fa-bars{
     }
     .home{
         background-position: left;
+         width: 200px; float: left;
+        margin-left: 216px;
     }
 
 }
