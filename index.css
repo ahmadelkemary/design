@@ -547,5 +547,8 @@ header .fa-bars{
     .heading{
         font-size: 3rem;
     }
+    .home{
+        background-position: left;
+    }
 
 }
